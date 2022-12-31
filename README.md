@@ -8,13 +8,17 @@
 
 ## 강화학습 알고리즘
 
+아래 알고리즘의 Reference는 읽을 수 있으면 좋으나 난이도가 높으니 안읽어도 상관 없음.
+
 |Algorithm|Reference|
 |---|---|
-|DQN|[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)|
+|[DQN](dqn.ipynb)|[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)|
 |REINFORCE|[Reinforcement Learning: An Introduction; 2nd Edition. 2020. Sec 13.3 (326p)](http://www.incompleteideas.net/book/the-book-2nd.html)|
 |A2C|[Understanding Actor Critic Methods and A2C](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)|
 
 ## 읽어보면 좋은 자료
+
+아래 자료 역시 읽을 수 있으면 좋으나 난이도가 높으니 안읽어도 상관 없음.
 
 * DevSlem. [On-policy Prediction with Approximation](https://devslem.github.io/reinforcement-learning/rl-fundamental/on-policy-prediction-with-approximation/).
 * DevSlem. [Policy Gradient Methods](https://devslem.github.io/reinforcement-learning/rl-fundamental/policy-gradient-methods/).
