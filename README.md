@@ -13,7 +13,7 @@
 |Algorithm|Reference|
 |---|---|
 |[DQN](dqn.ipynb)|[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)|
-|REINFORCE|[Reinforcement Learning: An Introduction; 2nd Edition. 2020. Sec 13.3 (326p)](http://www.incompleteideas.net/book/the-book-2nd.html)|
+|[REINFORCE](reinforce.ipynb)|[Reinforcement Learning: An Introduction; 2nd Edition. 2020. Sec 13.3 (326p)](http://www.incompleteideas.net/book/the-book-2nd.html)|
 |A2C|[Understanding Actor Critic Methods and A2C](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)|
 
 ## 읽어보면 좋은 자료
