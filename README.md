@@ -5,6 +5,10 @@
 ## Member
 
 * 박진영 - [DevSlem (Github)](https://github.com/DevSlem)
+* 박혜인 - [Hyeeein (Github)](https://github.com/Hyeeein)
+* 진성원 - [miner58 (Github)](https://github.com/miner58)
+* 이승관 - [SeungGwan123](https://github.com/SeungGwan123)
+* 성치웅
 
 ## 강화학습 알고리즘
 
