@@ -8,7 +8,7 @@
 * 박혜인 - [Hyeeein (Github)](https://github.com/Hyeeein)
 * 진성원 - [miner58 (Github)](https://github.com/miner58)
 * 이승관 - [SeungGwan123 (Github)](https://github.com/SeungGwan123)
-* 성치웅
+* 성치웅 - [SungChiWoong (Github)](https://github.com/SungChiWoong)
 
 ## 강화학습 알고리즘
 
